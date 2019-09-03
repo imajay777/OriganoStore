@@ -1,0 +1,46 @@
+.imgFilter{
+    filter: brightness(0.85);
+}
+
+.social_links 
+		{
+			width: 25%;
+        }
+        
+        .imgResize 
+		{
+			width: 60px;
+			height: 60px;
+        }
+        
+        .contacts 
+		{
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+			margin-top: 50vh;
+        }
+        
+        .caption 
+		{
+		  	position: absolute;
+		  	left: 0;
+		  	top: 80%;
+		  	width: 100%;
+		  	text-align: center;
+		  	color: #000;
+        }
+        
+        .bgimg-3 
+		{
+		  	background-image: url("coder.png");
+		  	min-height: 400px;
+        }
+        
+        .bgimg-1 
+		{
+		  	background-image: url("img_parallax.jpg");
+		  	min-height: 100%;
+		  	opacity: 0.95;
+		  	
+		}
